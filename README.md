@@ -15,7 +15,7 @@ I like exploring systems and tools that have mathematics and physics behind them
 - **Numerical analysis and optimization:** finite element methods, model reduction, parameter optimization.
 - **Scientific software:** C++ and Python tools for simulation and plugins.
 
-### Selected work
+### Selected Contributions
 
 - **PhD thesis:** *Estimation of eigenvalues of light transport using Monte Carlo algorithms* ([HAL](https://hal.science/tel-03936314v2))
 - **[Tearing](https://github.com/InfinyTech3D/Tearing):** SOFA plugin for tearing simulation (refactoring, maintenance, debugging)
@@ -30,7 +30,7 @@ C++ · Python · Git · CMake · [SOFA](https://www.sofa-framework.org/about/fea
 
 ### Contact
 
-Lyon, France · [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/rmolazem/)) · rmolazem17@gmail.com
+Lyon, France · [LinkedIn](https://www.linkedin.com/in/rmolazem/) · rmolazem17@gmail.com
 
 <!--
 **rmolazem/rmolazem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
