@@ -21,12 +21,24 @@ I like exploring systems and tools that have mathematics and physics behind them
 - **[Tearing](https://github.com/InfinyTech3D/Tearing):** SOFA plugin for tearing simulation (refactoring, maintenance, debugging)
 - **[InfinyToolkit](https://github.com/InfinyTech3D/InfinyToolkit):** SOFA plugin collecting open-source simulation components and scripts. I added a controller for cardiac motion.
 
-### Tools and plugins I use
+### Tools & Technologies
 
-C++ · Python · Git · CMake · [SOFA](https://www.sofa-framework.org/about/features/) · [HQR](https://launchpad.net/~csoler-users/+archive/ubuntu/hqr)
+**Programming:** C++ · Python · MATLAB
 
-- **[BeamAdapter](https://github.com/sofa-framework/BeamAdapter):** used to simulate flexible instruments (Timoshenko beam theory)
-- **[ModelOrderReduction](https://github.com/SofaDefrost/ModelOrderReduction):** investigated to reduce computation costs in our simulations
+**Development Tools:** Git · CMake · Linux
+
+**Simulation Frameworks:** [SOFA Framework](https://www.sofa-framework.org/about/features/) · [High Quality Renderer (HQR)](https://launchpad.net/~csoler-users/+archive/ubuntu/hqr)
+
+### Simulation Plugins & Framework Extensions
+
+- [**BeamAdapter**](https://github.com/sofa-framework/BeamAdapter): Investigated for modelling flexible medical instruments, such as catheters and guidewires, using Timoshenko beam theory.
+- [**ModelOrderReduction**](https://github.com/SofaDefrost/ModelOrderReduction): Investigated for its applicability to medical simulation workflows, with the aim of reducing computational costs.
+
+### Publications
+
+- **Soler, C., Molazem, R., and Subr, K. (2022).** *A Theoretical Analysis of Compactness of the Light Transport Operator.* SIGGRAPH 2022 – Conference and Exhibition on Computer Graphics and Interactive Techniques.
+
+  [DOI: 10.1145/3528233.3530725](https://doi.org/10.1145/3528233.3530725)
 
 ### Contact
 
